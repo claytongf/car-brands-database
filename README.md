@@ -3,6 +3,10 @@
 A JSON file containing brand names, logos, and the URLs from which the logos were extracted.
 All the information were extracted from [Car Logos Website](https://car-logos.org/)
 
+## Buy me a Coffee..... or Pizza
+
+[Buy me a Coffee or Pizza](https://www.buymeacoffee.com/botaficha)
+
 # import_cars.py: Usage Documentation
 
 This script allows you to extract car brand information from car-logos.org, including names and logo URLs, with the option to download the logo images.
