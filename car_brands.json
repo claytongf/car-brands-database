@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Abarth",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/abarth.png",
+    "local_path": "logos/abarth.png"
+  },
+  {
+    "name": "Ac",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/ac-cars.png",
+    "local_path": "logos/ac.png"
+  },
+  {
+    "name": "Acura",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/acura.png",
+    "local_path": "logos/acura.png"
+  },
+  {
+    "name": "Aixam",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/aixam.png",
+    "local_path": "logos/aixam.png"
+  },
+  {
+    "name": "Alfa Romeo",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/alfa_romeo.png",
+    "local_path": "logos/alfa-romeo.png"
+  },
+  {
+    "name": "Ariel",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/ariel.png",
+    "local_path": "logos/ariel.png"
+  },
+  {
+    "name": "Arrinera",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/arrinera-logo.png",
+    "local_path": "logos/arrinera.png"
+  },
+  {
+    "name": "Aston Martin",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/aston_martin.png",
+    "local_path": "logos/aston-martin.png"
+  },
+  {
+    "name": "Audi",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/audi.png",
+    "local_path": "logos/audi.png"
+  },
+  {
+    "name": "Bentley",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/bentley.png",
+    "local_path": "logos/bentley.png"
+  },
+  {
+    "name": "Bmw",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/bmw.png",
+    "local_path": "logos/bmw.png"
+  },
+  {
+    "name": "Bugatti",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile.jpg",
+    "local_path": "logos/bugatti.jpg"
+  },
+  {
+    "name": "Buick",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/buick.png",
+    "local_path": "logos/buick.png"
+  },
+  {
+    "name": "Cadillac",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/cadillac.png",
+    "local_path": "logos/cadillac.png"
+  },
+  {
+    "name": "Caterham",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/caterham.png",
+    "local_path": "logos/caterham.png"
+  },
+  {
+    "name": "Chevrolet",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/chevrolet.png",
+    "local_path": "logos/chevrolet.png"
+  },
+  {
+    "name": "Chrysler",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-1.jpg",
+    "local_path": "logos/chrysler.jpg"
+  },
+  {
+    "name": "Citroen",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/citroen.png",
+    "local_path": "logos/citroen.png"
+  },
+  {
+    "name": "Corvette",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/corvette.png",
+    "local_path": "logos/corvette.png"
+  },
+  {
+    "name": "Dacia",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-2.jpg",
+    "local_path": "logos/dacia.jpg"
+  },
+  {
+    "name": "Daewoo",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/daewoo.png",
+    "local_path": "logos/daewoo.png"
+  },
+  {
+    "name": "Daf",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/daf.png",
+    "local_path": "logos/daf.png"
+  },
+  {
+    "name": "Daihatsu",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/daihat.png",
+    "local_path": "logos/daihatsu.png"
+  },
+  {
+    "name": "Delorean",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/delorean.png",
+    "local_path": "logos/delorean.png"
+  },
+  {
+    "name": "Dodge",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/dodge.png",
+    "local_path": "logos/dodge.png"
+  },
+  {
+    "name": "Dr Motor",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/drmotor.png",
+    "local_path": "logos/dr-motor.png"
+  },
+  {
+    "name": "Elfin",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/elfin.png",
+    "local_path": "logos/elfin.png"
+  },
+  {
+    "name": "Ferrari",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/ferrari.png",
+    "local_path": "logos/ferrari.png"
+  },
+  {
+    "name": "Fiat",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/356049250_6489832361055985_4033206365835673543_n.jpg",
+    "local_path": "logos/fiat.jpg"
+  },
+  {
+    "name": "Ford",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/305401446_202569655442691_4118069994113071509_n.jpg",
+    "local_path": "logos/ford.jpg"
+  },
+  {
+    "name": "Mustang",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/353064113_647658550736442_1179071015359470465_n.png",
+    "local_path": "logos/mustang.png"
+  },
+  {
+    "name": "Gaz",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/gaz.png",
+    "local_path": "logos/gaz.png"
+  },
+  {
+    "name": "Geely",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/322735377_602197911712220_1411133901736881254_n.jpg",
+    "local_path": "logos/geely.jpg"
+  },
+  {
+    "name": "General Motors",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/355479543_643403901164004_5127892819933159806_n.png",
+    "local_path": "logos/general-motors.png"
+  },
+  {
+    "name": "Gillet",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/301914270_5498409163553508_1659188566136605333_n.jpg",
+    "local_path": "logos/gillet.jpg"
+  },
+  {
+    "name": "Ginetta",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/ginetta.png",
+    "local_path": "logos/ginetta.png"
+  },
+  {
+    "name": "Gmc",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/gmc.png",
+    "local_path": "logos/gmc.png"
+  },
+  {
+    "name": "Great Wall",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/352522687_1442032493199607_153550045778081319_n.png",
+    "local_path": "logos/great-wall.png"
+  },
+  {
+    "name": "Gumpert",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed.jpg",
+    "local_path": "logos/gumpert.jpg"
+  },
+  {
+    "name": "Hennessey",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/355691056_659880849498940_5888537315584428957_n.jpg",
+    "local_path": "logos/hennessey.jpg"
+  },
+  {
+    "name": "Holden",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/holden.png",
+    "local_path": "logos/holden.png"
+  },
+  {
+    "name": "Honda",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/355863948_661460272695036_2545319151041555739_n.jpg",
+    "local_path": "logos/honda.jpg"
+  },
+  {
+    "name": "Hummer",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/hummer.png",
+    "local_path": "logos/hummer.png"
+  },
+  {
+    "name": "Hyundai",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/355340856_654920570009290_4023284134470753096_n.jpg",
+    "local_path": "logos/hyundai.jpg"
+  },
+  {
+    "name": "Infiniti",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/355643820_637364715091830_5952725863249618689_n.jpg",
+    "local_path": "logos/infiniti.jpg"
+  },
+  {
+    "name": "Isuzu",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/isuzu.png",
+    "local_path": "logos/isuzu.png"
+  },
+  {
+    "name": "Jaguar",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-3.jpg",
+    "local_path": "logos/jaguar.jpg"
+  },
+  {
+    "name": "Jeep",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/427960705_795061335998933_8220784477524963213_n.jpg",
+    "local_path": "logos/jeep.jpg"
+  },
+  {
+    "name": "Kia",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-4.jpg",
+    "local_path": "logos/kia.jpg"
+  },
+  {
+    "name": "Koenigsegg",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-5.jpg",
+    "local_path": "logos/koenigsegg.jpg"
+  },
+  {
+    "name": "Lada",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/lada.png",
+    "local_path": "logos/lada.png"
+  },
+  {
+    "name": "Lamborghini",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/lamb.png",
+    "local_path": "logos/lamborghini.png"
+  },
+  {
+    "name": "Lancia",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-6.jpg",
+    "local_path": "logos/lancia.jpg"
+  },
+  {
+    "name": "Land Rover",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-7.jpg",
+    "local_path": "logos/land-rover.jpg"
+  },
+  {
+    "name": "Lexus",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-2.jpg",
+    "local_path": "logos/lexus.jpg"
+  },
+  {
+    "name": "Lincoln",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-8.jpg",
+    "local_path": "logos/lincoln.jpg"
+  },
+  {
+    "name": "Lotus",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/lotus.png",
+    "local_path": "logos/lotus.png"
+  },
+  {
+    "name": "Luxgen",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-9.jpg",
+    "local_path": "logos/luxgen.jpg"
+  },
+  {
+    "name": "Mahindra",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/Mahindra_new_logo_2021-300x199.png",
+    "local_path": "logos/mahindra.png"
+  },
+  {
+    "name": "Maruti Suzuki",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-11.jpg",
+    "local_path": "logos/maruti-suzuki.jpg"
+  },
+  {
+    "name": "Maserati",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-12.jpg",
+    "local_path": "logos/maserati.jpg"
+  },
+  {
+    "name": "Maybach",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/maybach.png",
+    "local_path": "logos/maybach.png"
+  },
+  {
+    "name": "Mazda",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/mazda.png",
+    "local_path": "logos/mazda.png"
+  },
+  {
+    "name": "Mclaren",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-13.jpg",
+    "local_path": "logos/mclaren.jpg"
+  },
+  {
+    "name": "Mercedes Benz",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-14.jpg",
+    "local_path": "logos/mercedes-benz.jpg"
+  },
+  {
+    "name": "Mg",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-15.jpg",
+    "local_path": "logos/mg.jpg"
+  },
+  {
+    "name": "Mini",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/mini.png",
+    "local_path": "logos/mini.png"
+  },
+  {
+    "name": "Mitsubishi",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/mitub.png",
+    "local_path": "logos/mitsubishi.png"
+  },
+  {
+    "name": "Morgan Motor",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-16.jpg",
+    "local_path": "logos/morgan-motor.jpg"
+  },
+  {
+    "name": "Nissan",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/386329642_708690717949829_3006140016020350125_n-300x300.jpg",
+    "local_path": "logos/nissan.jpg"
+  },
+  {
+    "name": "Noble",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/noble.png",
+    "local_path": "logos/noble.png"
+  },
+  {
+    "name": "Opel",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/opel.png",
+    "local_path": "logos/opel.png"
+  },
+  {
+    "name": "Pagani",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/pagani.png",
+    "local_path": "logos/pagani.png"
+  },
+  {
+    "name": "Panoz",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/panoz.png",
+    "local_path": "logos/panoz.png"
+  },
+  {
+    "name": "Perodua",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/perodua.png",
+    "local_path": "logos/perodua.png"
+  },
+  {
+    "name": "Peugeot",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-3.jpg",
+    "local_path": "logos/peugeot.jpg"
+  },
+  {
+    "name": "Piaggio",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-4.jpg",
+    "local_path": "logos/piaggio.jpg"
+  },
+  {
+    "name": "Pininfarina",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/pininfarina.png",
+    "local_path": "logos/pininfarina.png"
+  },
+  {
+    "name": "Porsche",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/porsche.png",
+    "local_path": "logos/porsche.png"
+  },
+  {
+    "name": "Proton",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-5.jpg",
+    "local_path": "logos/proton.jpg"
+  },
+  {
+    "name": "Renault",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/renault.png",
+    "local_path": "logos/renault.png"
+  },
+  {
+    "name": "Reva",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/reva.png",
+    "local_path": "logos/reva.png"
+  },
+  {
+    "name": "Rimac Automobili",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-17.jpg",
+    "local_path": "logos/rimac-automobili.jpg"
+  },
+  {
+    "name": "Rolls_royce",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/rolls-royce.png",
+    "local_path": "logos/rolls_royce.png"
+  },
+  {
+    "name": "Ruf",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/ruf.png",
+    "local_path": "logos/ruf.png"
+  },
+  {
+    "name": "Saab",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-18.jpg",
+    "local_path": "logos/saab.jpg"
+  },
+  {
+    "name": "Scania",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-19.jpg",
+    "local_path": "logos/scania.jpg"
+  },
+  {
+    "name": "Seat",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-20.jpg",
+    "local_path": "logos/seat.jpg"
+  },
+  {
+    "name": "Shelby",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-7.jpg",
+    "local_path": "logos/shelby.jpg"
+  },
+  {
+    "name": "Skoda",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/skoda.png",
+    "local_path": "logos/skoda.png"
+  },
+  {
+    "name": "Smart",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/smart.png",
+    "local_path": "logos/smart.png"
+  },
+  {
+    "name": "Spyker",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/spyker.png",
+    "local_path": "logos/spyker.png"
+  },
+  {
+    "name": "Ssangyong",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-8.jpg",
+    "local_path": "logos/ssangyong.jpg"
+  },
+  {
+    "name": "Ssc",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-9.jpg",
+    "local_path": "logos/ssc.jpg"
+  },
+  {
+    "name": "Subaru",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/subaru.png",
+    "local_path": "logos/subaru.png"
+  },
+  {
+    "name": "Suzuki",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/suzuki.png",
+    "local_path": "logos/suzuki.png"
+  },
+  {
+    "name": "Tata",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/tata.png",
+    "local_path": "logos/tata.png"
+  },
+  {
+    "name": "Tatra",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/tatra.png",
+    "local_path": "logos/tatra.png"
+  },
+  {
+    "name": "Tesla",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-22.jpg",
+    "local_path": "logos/tesla.jpg"
+  },
+  {
+    "name": "Toyota",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/toyota.png",
+    "local_path": "logos/toyota.png"
+  },
+  {
+    "name": "Tramontana",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/1176359_187686584745478_1792749640_n.jpg",
+    "local_path": "logos/tramontana.jpg"
+  },
+  {
+    "name": "Troller",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/troller.png",
+    "local_path": "logos/troller.png"
+  },
+  {
+    "name": "Tvr",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/tvr.png",
+    "local_path": "logos/tvr.png"
+  },
+  {
+    "name": "Uaz",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/uaz.png",
+    "local_path": "logos/uaz.png"
+  },
+  {
+    "name": "Vandenbrink Design",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/vandenbrink_design.png",
+    "local_path": "logos/vandenbrink-design.png"
+  },
+  {
+    "name": "Vauxhall",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-11.jpg",
+    "local_path": "logos/vauxhall.jpg"
+  },
+  {
+    "name": "Vector Motors",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/vector_motors.png",
+    "local_path": "logos/vector-motors.png"
+  },
+  {
+    "name": "Venturi",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/unnamed-12.jpg",
+    "local_path": "logos/venturi.jpg"
+  },
+  {
+    "name": "Volkswagen",
+    "logo": "https://car-logos.org/wp-content/uploads/2024/03/channels4_profile-23.jpg",
+    "local_path": "logos/volkswagen.jpg"
+  },
+  {
+    "name": "Volvo",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/volvo.png",
+    "local_path": "logos/volvo.png"
+  },
+  {
+    "name": "Wiesmann",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/wiesmann.png",
+    "local_path": "logos/wiesmann.png"
+  },
+  {
+    "name": "Zagato",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/zagato.png",
+    "local_path": "logos/zagato.png"
+  },
+  {
+    "name": "Zaz",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/zaz.png",
+    "local_path": "logos/zaz.png"
+  },
+  {
+    "name": "Zil",
+    "logo": "https://car-logos.org/wp-content/uploads/2022/08/zil.png",
+    "local_path": "logos/zil.png"
+  }
+]
